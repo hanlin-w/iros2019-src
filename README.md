@@ -36,10 +36,15 @@ In order to compile the library, the installation of following libraries is requ
 
 On most unix-like systems, the library can be downloaded and compiled using following commands:
 >git clone 
+
 >cd CPL-Sync
+
 > mkdir build
+
 > cd build
+
 > cmake  -DCMAKE_BUILD_TYPE=Release .\.
+
 > make 
 
 
